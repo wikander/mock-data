@@ -1,0 +1,14 @@
+{
+  "__repeat": "[10]",
+  "id": "s.id.[1]",
+  "createdTimestamp": "n.epoch.[10, 30]",
+  "<-": [
+    { "comment": "s.s.[2,7]" },
+    {
+      "comment": "?[100].s.s.[2,7]",
+      "commentStatus": "s.enum.[1].['awaitingReview', 'userRemoved', 'moderatorRemoved']"
+    }
+  ],
+  "userDisplayName": "s.n.[2]",
+  "userStore": "s.w.[2]"
+}

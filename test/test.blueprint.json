@@ -1,0 +1,4 @@
+{
+  "id": "s.id.[1]",
+  "recursive": { "__repeat": "[3]", "__recursive": 6 }
+}
